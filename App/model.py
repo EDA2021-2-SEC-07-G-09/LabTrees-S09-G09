@@ -203,7 +203,6 @@ def getCrimesByRangeCode(analyzer, initialDate, offensecode):
             return m.size(me.getValue(numoffenses)['lstoffenses'])
     return 0
 
-
 # ==============================
 # Funciones de Comparacion
 # ==============================
